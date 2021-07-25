@@ -5,3 +5,5 @@ Cryptography Lab Programs :
 4. RSA Algorithm
 5. SDES
 6. Vigenere Cipher 
+7. Playyfair Cipher
+8. Ceaser Cipher
